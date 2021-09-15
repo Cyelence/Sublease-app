@@ -21,9 +21,9 @@ const Index = () => {
     return (
         <Layout>
             <Flex>
-                <Heading>Foliobook</Heading>
+                <Heading>SBConnect</Heading>
                 <NextLink href="/create-post">
-                    <Link ml='auto'> create post </Link>
+                    <Link ml='auto'> create listing </Link>
                 </NextLink>
             </Flex>
             <br />
